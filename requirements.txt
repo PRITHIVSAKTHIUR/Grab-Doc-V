@@ -1,0 +1,5 @@
+gradio 
+fpdf
+openai
+python-docx
+huggingface-hub==0.24.6 
