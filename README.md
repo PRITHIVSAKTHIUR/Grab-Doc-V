@@ -48,6 +48,23 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
     
     GIT_LFS_SKIP_SMUDGE=1 git clone git@hf.co:spaces/prithivMLmods/GRABDOC-V
 
-
+## DEMO-GIF
 ![alt text](assets/GRABDOCVV.gif)
+
+## Dependencies
+
+| Package            | Version     | Description                                         |
+|--------------------|-------------|-----------------------------------------------------|
+| `gradio`           | Latest      | A library for building machine learning demos and applications. |
+| `fpdf`             | Latest      | A Python class for generating PDF documents.       |
+| `openai`           | Latest      | A library for accessing OpenAI’s API and models.   |
+| `python-docx`      | Latest      | A library for creating and updating Microsoft Word (.docx) files. |
+| `huggingface-hub`  | 0.24.6      | A library for interacting with the Hugging Face Hub to manage and share machine learning models and datasets. |
+
+.
+
+.
+
+.
+
 
