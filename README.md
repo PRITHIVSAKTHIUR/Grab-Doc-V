@@ -48,3 +48,6 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
     
     GIT_LFS_SKIP_SMUDGE=1 git clone git@hf.co:spaces/prithivMLmods/GRABDOC-V
 
+
+![alt text](assets/GRABDOCVV.gif)
+
