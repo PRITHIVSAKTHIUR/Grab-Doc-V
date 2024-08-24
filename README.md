@@ -15,6 +15,13 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ![alt text](assets/gdvv.png)
 
+## Model Details
+
+| Model Identifier                      | Description                                         | Version |
+|---------------------------------------|-----------------------------------------------------|---------|
+| `meta-llama/Meta-Llama-3.1-70B-Instruct` | A large language model designed for instruction-based tasks, with 70 billion parameters. | 3.1     |
+
+
 ## HTTPS
 
     Make sure you have git-lfs installed (https://git-lfs.com)
