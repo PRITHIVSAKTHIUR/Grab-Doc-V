@@ -48,6 +48,19 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
     
     GIT_LFS_SKIP_SMUDGE=1 git clone git@hf.co:spaces/prithivMLmods/GRABDOC-V
 
+## Llama
+
+'''
+    for message in client.chat.completions.create(
+        model="meta-llama/Meta-Llama-3.1-70B-Instruct",
+        max_tokens=max_tokens,
+        stream=True,
+        temperature=temperature,
+        top_p=top_p,
+        messages=messages,
+    ):
+'''
+
 ## DEMO-GIF
 ![alt text](assets/GRABDOCVV.gif)
 
