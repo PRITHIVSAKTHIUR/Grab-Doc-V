@@ -13,6 +13,8 @@ license: creativeml-openrail-m
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+![alt text](assets/gdvv.png)
+
 ## HTTPS
 
     Make sure you have git-lfs installed (https://git-lfs.com)
