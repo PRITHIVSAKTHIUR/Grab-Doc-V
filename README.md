@@ -13,13 +13,15 @@ license: creativeml-openrail-m
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-![alt text](assets/gdvv.png)
-
 ## Model Details
 
 | Model Identifier                      | Description                                         | Version |
 |---------------------------------------|-----------------------------------------------------|---------|
 | `meta-llama/Meta-Llama-3.1-70B-Instruct` | A large language model designed for instruction-based tasks, with 70 billion parameters. | 3.1     |
+
+
+![alt text](assets/gdvv.png)
+
 
 
 ## HTTPS
