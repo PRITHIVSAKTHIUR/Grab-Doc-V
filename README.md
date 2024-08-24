@@ -65,6 +65,8 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 .
 
-.
+.@prithivmlmods
 
+### **Try It Out!**
+| Hugging Face | [prithivMLmods](https://huggingface.co/prithivMLmods) |
 
